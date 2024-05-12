@@ -3,21 +3,21 @@
 
 Data Structures and Algorithms This project includes 12 different problems solved in C++. Topics; Greedy Algorithm, Dynamic Programming, Backtracking, and Divide and Conquer
 
-PROBLEMS
+problems:
 
-Problem 1 Greedy Algorithm
-Problem 2 Greedy Algorithm
-Problem 3 repeat previous Problem 2 using Dynamic Programming
-Problem 4 Greedy Algorithm
-Problem 5 Same Problem 4 but using Dynamic Programming
-Problem 6 Backtracking
-Problem 7 Backtracking
-Problem 8 Backtracking
-Problem 9 Backtracking
-Problem 10 Divide and Conquer
-Problem 11 Divide and Conquer
-Problem 12 Divide and Conquer
-Setup
+problem 1 greedy algorithm
+problem 2 greedy algorithm
+problem 3 repeat previous problem 2 using dynamic programming
+problem 4 greedy algorithm
+problem 5 Same problem 4 but using dynamic programming
+problem 6 backtracking
+problem 7 backtracking
+problem 8 backtracking
+problem 9 backtracking
+problem 10 divide and conquer
+problem 11 divide and conquer
+problem 12 divide and conquer
+
 
 Clone the project: git clone 
 Install the C++ compiler (for example, g++), the C++ compiler environment (for example, GCC), and the necessary dependencies required for the compilation process.
