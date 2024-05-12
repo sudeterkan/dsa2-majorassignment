@@ -19,7 +19,7 @@ problem 11 divide and conquer
 problem 12 divide and conquer
 
 
-Clone the project: git clone 
+Clone the project: git clone https://github.com/sudeterkan/dsa2-majorassignment.git
 Install the C++ compiler (for example, g++), the C++ compiler environment (for example, GCC), and the necessary dependencies required for the compilation process.
 Operating Instructions
 
